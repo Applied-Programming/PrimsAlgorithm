@@ -1,1 +1,1 @@
-# PrimsAlgorithm
+# Prims Algorithm
